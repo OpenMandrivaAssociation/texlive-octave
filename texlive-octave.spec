@@ -1,6 +1,6 @@
 Name:		texlive-octave
 Version:	45674
-Release:	1
+Release:	2
 Summary:	Typeset musical pitches with octave designations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/octave
