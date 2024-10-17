@@ -3,7 +3,7 @@ Version:	66115
 Release:	1
 Summary:	Typeset musical pitches with octave designations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/octave
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/octave
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/octave.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/octave.doc.r%{version}.tar.xz
